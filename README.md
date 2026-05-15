@@ -1,7 +1,7 @@
 %%writefile update_source.py
 import os
 
-markdown_doc = """/*
+
 ================================================================================
 # AUTOMATED HYBRID PARALLEL COMPUTING PIPELINE (MPI + OpenMP + GPU OFFLOADING)
 # GitHub-Ready Markdown Documentation & Comprehensive Laboratory Manual
