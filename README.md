@@ -1,7 +1,6 @@
 
 ================================================================================
 # AUTOMATED HYBRID PARALLEL COMPUTING PIPELINE (MPI + OpenMP + GPU OFFLOADING)
-# GitHub-Ready Markdown Documentation & Comprehensive Laboratory Manual
 ================================================================================
 
 ## 📌 PROJECT OVERVIEW
