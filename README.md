@@ -1,6 +1,3 @@
-%%writefile update_source.py
-import os
-
 
 ================================================================================
 # AUTOMATED HYBRID PARALLEL COMPUTING PIPELINE (MPI + OpenMP + GPU OFFLOADING)
